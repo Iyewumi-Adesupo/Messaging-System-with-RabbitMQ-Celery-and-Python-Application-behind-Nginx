@@ -146,3 +146,15 @@ python-dotenv==0.19.2
 ```
 
 With this `README.md`, users will have a clear understanding of how to set up, run, and use your Flask Celery email sending application.
+
+These screenshots below show the application deployment using the logs, sendmail and talktome:
+
+![3c59-86-137-237-181 ngrok-free app - Google Chrome 13_07_2024 21_26_40](https://github.com/user-attachments/assets/714a20b3-87c8-4f16-9979-454289df310e)
+
+
+![3c59-86-137-237-181 ngrok-free app_logs - Google Chrome 13_07_2024 21_27_17](https://github.com/user-attachments/assets/18d1bbee-ca6f-450e-ae6b-c2bb2133256b)
+
+
+![3c59-86-137-237-181 ngrok-free app__talktome - Google Chrome 13_07_2024 21_28_00](https://github.com/user-attachments/assets/1833f6f5-a9d9-491a-8158-203a79c2e670)
+
+
