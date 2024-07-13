@@ -149,12 +149,12 @@ With this `README.md`, users will have a clear understanding of how to set up, r
 
 These screenshots below show the application deployment using the logs, sendmail and talktome:
 
-![3c59-86-137-237-181 ngrok-free app - Google Chrome 13_07_2024 21_26_40](https://github.com/user-attachments/assets/714a20b3-87c8-4f16-9979-454289df310e)
+![3c59-86-137-237-181 ngrok-free app__talktome - Google Chrome 13_07_2024 21_31_58](https://github.com/user-attachments/assets/b45addc1-b5e9-48a5-88b1-fd36ee33cfde)
 
 
-![3c59-86-137-237-181 ngrok-free app_logs - Google Chrome 13_07_2024 21_27_17](https://github.com/user-attachments/assets/18d1bbee-ca6f-450e-ae6b-c2bb2133256b)
+![3c59-86-137-237-181 ngrok-free app__talktome - Google Chrome 13_07_2024 21_32_13](https://github.com/user-attachments/assets/78d8a946-3588-4127-a5df-79eb9f748baa)
 
 
-![3c59-86-137-237-181 ngrok-free app__talktome - Google Chrome 13_07_2024 21_28_00](https://github.com/user-attachments/assets/1833f6f5-a9d9-491a-8158-203a79c2e670)
+![3c59-86-137-237-181 ngrok-free app__talktome - Google Chrome 13_07_2024 21_32_26](https://github.com/user-attachments/assets/5e21d620-ef4f-4553-be4c-f8e9f59881a2)
 
 
